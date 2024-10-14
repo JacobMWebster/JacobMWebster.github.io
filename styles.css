@@ -1,12 +1,12 @@
 body {
     background-color: #EFEDE3;
     font-family: Arial, Helvetica, sans-serif;
-    }
+}
 
 h1 {
     text-align: center;
     color: #273B70;
-    }
+}
 
 .projects { 
     display:flex; flex-wrap:wrap; 
@@ -18,4 +18,16 @@ h1 {
     padding: 20px 10px;
     background: #273B70;
     border-radius: 25%;
+}
+.project img{
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    border: 2px solid #273B70;;
+    display: block;
+    margin: auto;
+}
+.project p {
+    text-align: center;
+    margin: 15px;
 }
