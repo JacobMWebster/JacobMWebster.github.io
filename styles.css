@@ -8,6 +8,10 @@ h1 {
     color: #273B70;
 }
 
+h3 {
+    text-align: center;
+    color: white;
+}
 .projects { 
     display:flex; flex-wrap:wrap; 
 }
